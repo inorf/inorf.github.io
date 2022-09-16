@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Dzmitry Dylevich 1P </title>
+		
+	</head>
+	<body bgcolor="silver">
+		
+		
+		<p align="left"><font color="red" size="7"> Dzmitry Dylevich </font></p><br>
+		<p align="center"><font color="blue" size="6"> Dzmitry Dylevich </font></p><br>
+		<p align="right"><font color="red" size="5"> Dzmitry Dylevich </font></p><br>
+		<p align="center"><font color="blue" size="4"> Dzmitry Dylevich </font></p><br>
+		<p align="left"><font color="red" size="3"> Dzmitry Dylevich </font></p><br>
+		<p align="center"><font color="blue" size="2"> Dzmitry Dylevich </font></p><br>
+		<p align="right"><font color="red" size="1"> Dzmitry Dylevich </font></p><br>
+		
+		<h1> Dzmitry </h1><br>
+		<h2> Dzmitry </h2><br>
+		<h3> Dzmitry </h3><br>
+		<h4> Dzmitry </h4><br>
+		<h5> Dzmitry </h5><br>
+		<h6> Dzmitry </h6><br>
+		
+		<h2><font face="arial"> :( smutek </font></h2><br>
+		<h2><font face="courier new"> :C duzy smutek </font></h2><br>
+		<h2><font face="times new roman"> ;( placz </font></h2><br>
+		<h2><font face="verdana"> ._. zdziwienie </font></h2><br>
+		<h2><font face="archaic"> :) radosc </font></h2><br>
+		<h2><font face="courier new"> :] duza radosc </font></h2><br>
+		
+		
+		<p><b>Gospody </b><i> 4 </i><strike> A / 4, </strike><u> Gdansk 80-333</u></p><br>
+		
+		<h2 align="right"><font color="red" face="times new roman"> Johny Depp jest najlepszy! </font></h2><br>
+		
+		<h3 align="left"><font color="yellow" face="arial"> 29 lutego 1999 roku </font></h3><br>
+		
+		<h4 align="right"><font color="blue" face="verdana"> Imagion Dragons </font></h4><br>
+		
+		<h1> H<sub>2</sub>SO<sub>4</sub> </h1><br>
+		<h1> x*x=x<sup>2</sup></h1><br>
+		
+		
+		
+		<fieldset size="1">
+			<legend>
+				<h1> Żart o informatyku </h1>
+			</legend>
+				Pewien informatyk poszedł na ryby. Złapał złotą rybkę, która obiecała spełnić tradycyjnie trzy życzenia. Informatyk mówi: <br>
+				- Żeby był pokój na świecie. <br>
+				- Za trudne. <br>
+				- No to, aby windows się nie zacinał. <br>
+				- To już niech będzie ten pokój na świecie.<br>
+				<hr color="blue" style="width:100%;margin-left:0">
+		</fieldset>
+		<fieldset size="1">
+			<legend>
+				<h1><font align="center" face="verdana"> Żart o lekarzu </font></h1>
+			</legend>
+				Dentysta sadysta <br>
+				-Panie doktorze czy ma pan coś na moje zęby? <br>
+				-Tak, woreczek.<br>
+				<hr color="red" align="center" style="width:80%;padding-up:1%">
+		</fieldset>
+		<fieldset size="1">
+			<legend>
+				<h1 align="center" face="verdana"> Żart o informatyku </h1>
+			</legend>
+				Jest impreza u informatyków, wódka leje się szerokimi pasmami. Dwóch hackerów pije bruderszafta. <br>
+				- To co? Mówmy sobie po IP.<br>
+				<hr color="yellow" align="right" style="width:90%;margin-left:1%">
+		</fieldset>
+		
+		<h1> _______________________________________________________________________________________</h1>
+		
+		<br><br><br>
+		
+		<h1> poniżej są trzy wyliczenia z różnymi znakami wyliczenia</h1>
+		<h1> Ty zaproponuj swoje, związane z informatyką</h1>
+		
+		<UL TYPE=disc>
+			<li> liście spadają
+			<li> ceny rosną
+			<li> chce spać
+		</UL>
+		<UL TYPE=circle>
+			<li> samochód jezdzi
+			<li> trzeba uczyć się
+			<li> dlaczego mamy chemię
+		</UL>
+		<UL TYPE=square>
+			<li> jutro pojadę wędkować
+			<li> w ikei hotdog już nie 2zł a 3zł
+			<li> wego hotdog 2.5zł
+		</UL>
+	</body>
+</html>
